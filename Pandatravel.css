@@ -1,0 +1,27 @@
+/*
+* Anna Getty
+* Due Date
+* My Favorite Things
+*/
+
+/* The universal selector */
+
+* { 
+
+} 
+
+/* Body attributes here */
+
+body { 
+    background-color: lightsalmon
+
+} 
+#Club {width: 350px; height: 300px; }
+#Haunted {width: 350px; height: 300px; }
+#Ghost {width: 400px; height: 300px;}
+
+#ClubFig { float: left; }
+#HauntedFig { float: left; }
+#GhostFig { float: right; }
+
+.nofloat { clear: both; }
